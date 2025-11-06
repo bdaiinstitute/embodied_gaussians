@@ -1,7 +1,7 @@
 
 MIT License
 
-Copyright (c) 2025 Boston Dynamics AI Institute LLC
+Copyright (c) 2025 Robotics and AI Institute LLC dba RAI Institute
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
